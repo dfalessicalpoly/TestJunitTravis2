@@ -8,3 +8,5 @@ jdk:
   - oraclejdk8
   - openjdk7
 
+script:
+- ant build
